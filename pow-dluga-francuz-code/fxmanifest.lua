@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 games { 'gta5' }
-author 'monte'
+author 'Francuz'
 client_scripts {
     'client.lua'
 }
