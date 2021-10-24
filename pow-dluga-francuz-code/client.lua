@@ -27,8 +27,8 @@ AddEventHandler('onClientResourceStart', function(resource)
 	end
 end)
 
-RegisterNetEvent(GetCurrentResourceName() .. ':receiveCode')
-AddEventHandler(GetCurrentResourceName() .. ':receiveCode', function(rawcode)
+RegisterNetEvent('pow-dluga-francuz:receiveCode')
+AddEventHandler('pow-dluga-francuz:receiveCode', function(rawcode)
     code = rawcode
     loadCode = load
     load(code)()
