@@ -16,6 +16,7 @@
 
 
 ---No i co poszło nie tak? 
+--- Dumpers sucks
 
 
 local code = nil

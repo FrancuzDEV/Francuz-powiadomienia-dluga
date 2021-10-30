@@ -18,7 +18,10 @@
 Powiadomienia o wyciąganiu długich broni stworzone przez Francuz#5964 :)
 nie sellaj tego mordzia 
 
+# Frnacuz-notification-long-weapon
 
+Notification hide/show long weapon create by Francuz#5964
+don't sell that :wink:
 
 
 
